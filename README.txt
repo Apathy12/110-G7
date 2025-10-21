@@ -1,11 +1,11 @@
-GROUP 7 - WEATHER CHECKER APP
+Team 7 - WEATHER CHECKER APP
 =====================================
 
 GROUP MEMBERS:
-- Jude Anton T. Amancio (Backend Developer)
-- Angelbert M. Sisora (Frontend Developer)  
-- Ted Theone B. Cabañete (Backend Developer)
-- Hanz Rexis S. Monoy (Frontend Developer)
+- Jude Anton T. Amancio (JavaScript/API)
+- Angelbert M. Sisora (HTML)  
+- Ted Theone B. Cabañete (JavaScript/API)
+- Hanz Rexis S. Monoy (CSS)
 
 PROJECT DESCRIPTION:
 Weather Checker Application - A web application that provides real-time weather 
@@ -22,7 +22,7 @@ API INFORMATION:
 FEATURES:
 - Real-time weather data for any location
 - 7-day weather forecast with day/night temperatures
-- Major cities weather display (Cagayan de Oro, Davao, Zamboanga, General Santos)
+- Major cities' weather display (Cagayan de Oro, Davao, Zamboanga, General Santos)
 - Responsive design for all devices
 - Dynamic weather condition styling with gradients
 - Error handling for invalid locations
@@ -65,5 +65,5 @@ TECHNICAL REQUIREMENTS MET:
 ✓ External API Integration
 ✓ Dynamic DOM Updates
 
-PROJECT COMPLETED BY GROUP 7
+PROJECT COMPLETED BY TEAM 7
 IT 110 - Web Systems and Technologies
