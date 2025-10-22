@@ -1,5 +1,5 @@
 // Weather API Configuration
-const API_KEY = 'b8226e7e8a7e47648d402959250810'; // Replace with your weatherapi.com API key
+const API_KEY = '90bb60e067ae43fca3b133955252210'; // Replace with your weatherapi.com API key
 const API_BASE_URL = 'https://api.weatherapi.com/v1';
 
 // Four major cities to display
