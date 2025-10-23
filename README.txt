@@ -44,7 +44,7 @@ PORTFOLIO (index.html):
 
 WEATHER APP (app.html):
 1. Open app.html directly in any modern web browser
-2. Enter any city name in the search field and click SUBMIT
+2. Enter any city name in the search field and click SEARCH
 3. View current weather and 7-day forecast
 4. Click "← Portfolio" to return to the team portfolio
 
